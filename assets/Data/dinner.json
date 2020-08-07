@@ -1,0 +1,20 @@
+{
+  "dinner":
+    [
+      {
+        "name": "Lasagna",
+        "calories": 200,
+        "price": 19.99
+      },
+      {
+        "name": "Tacos",
+        "calories": 190,
+        "price": 15.99
+      },
+      {
+        "name": "Steak",
+        "calories": 130,
+        "price": 26.99
+      }
+    ]
+}
